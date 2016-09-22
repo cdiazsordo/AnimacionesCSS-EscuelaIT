@@ -9,7 +9,6 @@
 </head>
 <body>
   <div class="wrapper">
-  <h1> realizando una prueba </h1>
     <div class="ball"></div>
   </div>
 </body>
